@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 # 開発経験：
 
 ## ＜Stg環境におけるクラウドコスト削減＞　[開発背景]Freee インターンシップ　
@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 最後に、両者をうまく融合し、ユーザがチャット式でプロンプトを入力し、LLMがリアルタイムで提言から修正まで行うツールを実装できた。
 
 [動画]https://drive.google.com/file/d/13go555k9N9hKO5d4nX2athniJ_PaHZ7j/view?usp=drive_link
+
+
 

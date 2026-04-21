@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is **Jin**, and my main interests and focus are on **cloud engineering**, which include : **SRE, k8s cluster setups and internals(custom operator), and cloud architecture**.
 
-If you want to know more about my experiences, have a look at my pined repos.
+If you want to know more about my experiences, have a look at my pinned repos.
 
 
 
